@@ -1,4 +1,4 @@
-# 🎯 CV Match AI — SaaS CV & Job Matching Platform
+**🎯 CV Match AI — SaaS CV & Job Matching Platform**
 
 Full-stack AI SaaS platform for automatic CV analysis and job matching using **Gemini 2.0 Flash**.
 
