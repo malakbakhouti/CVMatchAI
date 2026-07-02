@@ -1,0 +1,23 @@
+# Environment variables (secrets)
+.env
+.env.local
+!.env.example
+
+# Node
+node_modules/
+package-lock.json
+
+# Vite / build output
+dist/
+build/
+
+# Uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
